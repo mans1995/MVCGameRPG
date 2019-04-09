@@ -1,6 +1,6 @@
 # MVCGameRPG
 
-Simple RPG made by a group of two people including myself. We don't own the graphics.
+Simple 2D RPG using JFrame made by a group of two people including myself. We don't own the graphics.
 
 Use:
 - Arrow keys to move.
